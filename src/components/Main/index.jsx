@@ -79,7 +79,7 @@ function Main() {
         <img src={Nokia} alt="" className='ml-[10px]'/>
        </div>
        <div>
-        <p className='ml-[20px]'>Apple</p>
+        <p className='ml-[20px]'>Nokia</p>
         <p className='ml-[20px] text-[#6C757D]'>mail@gmail.com!</p>
        </div>
        <div className='flex gap-[110px]'>
@@ -100,7 +100,7 @@ function Main() {
         <img src={Blackberry} alt="" className='ml-[10px]'/>
        </div>
        <div>
-        <p className='ml-[20px]'>Apple</p>
+        <p className='ml-[20px]'>Blackberry</p>
         <p className='ml-[20px] text-[#6C757D]'>mail@gmail.com!</p>
        </div>
        <div className='flex gap-[110px]'>
